@@ -1,1 +1,9 @@
-# js-template23
+# VanilaJS Online Store
+
+## Install
+
+```
+npm install
+```
+
+...
